@@ -110,25 +110,29 @@ My work emphasizes **responsiveness, hardware-accelerated rendering, memory effi
     </td>
   </tr>
 
-  <!-- Project 4: IMDB-TMDB-Info-Generator -->
+  <!-- Project 4: YouXtractor -->
   <tr>
     <td width="100%">
       <div align="left">
-        <h3>🍿 <a href="https://github.com/Robertkurniawan00/IMDB-TMDB-Info-Generator">IMDB-TMDB Info Generator</a> — Automated Movie Template Engine</h3>
+        <h3>🎵 <a href="https://github.com/Robertkurniawan00/YouXtractor">YouXtractor</a> — High-Fidelity Audio Extractor & Mastering Suite</h3>
         <p>
-          <img src="https://img.shields.io/badge/Frontend-HTML5%20%2F%20JavaScript-F7DF1E?style=flat-square&logo=javascript" />
-          <img src="https://img.shields.io/badge/API-TheMovieDB%20%26%20IMDb-01B4E4?style=flat-square&logo=the-movie-database" />
-          <img src="https://img.shields.io/badge/Type-Client--Side%20Single%20Page-blueviolet?style=flat-square" />
+          <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D4?style=flat-square&logo=windows-11" />
+          <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-C99%20%26%20C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B" />
+          <img src="https://img.shields.io/badge/GUI-PyQt6%20Studio-41CD52?style=flat-square&logo=qt" />
+          <img src="https://img.shields.io/badge/Engine-FFmpeg%20%26%20EBU%20R128-007808?style=flat-square" />
         </p>
         <p>
-          A client-side automation utility for digital content creators, movie reviewers, and bloggers to format complete multimedia metadata templates.
+          A studio-grade desktop and CLI application to extract, clean, master, and inspect audio streams from YouTube videos and playlists with zero acoustic compromise.
         </p>
         <ul>
-          <li><b>Live Metadata Scraper:</b> Fetches synopsis, cast, director, high-resolution posters, genres, and ratings instantly via IMDb ID.</li>
-          <li><b>Multi-Format Export:</b> Generates pre-formatted BBCode, Markdown, and clean HTML ready for CMS publication.</li>
+          <li><b>Polyglot High-Performance Architecture:</b> Combines Python (orchestrator & PyQt6 UI), native C99 dynamic library (string sanitization & Goertzel filter DSP), and compiled C++20 binary (ID3v2 & MPEG sync-word inspection).</li>
+          <li><b>Acoustic Mastering Pipeline:</b> Direct stream-copy for Opus/AAC, LAME VBR V0 encoding, and EBU R128 loudness normalization (-14 LUFS / -1.0 dBTP).</li>
+          <li><b>2D Spectrogram & Shelf Analyzer:</b> Integrated frequency spectrum visualizer (0–22 kHz) calculating cutoff frequencies to detect fake upsampled audio.</li>
+          <li><b>Batch & Playlist Automation:</b> Concurrent multi-stream downloads, auto-tagging, YouTube title artifact cleaner, and docked audio player.</li>
         </ul>
         <p>
-          🔗 <b>Source Code:</b> <a href="https://github.com/Robertkurniawan00/IMDB-TMDB-Info-Generator">github.com/Robertkurniawan00/IMDB-TMDB-Info-Generator</a>
+          🔗 <b>Source Code:</b> <a href="https://github.com/Robertkurniawan00/YouXtractor">github.com/Robertkurniawan00/YouXtractor</a>
         </p>
       </div>
     </td>
